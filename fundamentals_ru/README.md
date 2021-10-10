@@ -2,6 +2,8 @@
 
 <https://www.coursera.org/learn/python-osnovy-programmirovaniya/home/welcome>
 
+Минимум Python 3.4.
+
 ## Правила академической честности на курсе
 
 Дорогие слушатели!
